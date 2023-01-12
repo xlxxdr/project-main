@@ -1,3 +1,6 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = https://github.com/xlxxdr/leetcode.git
+[submodule "java-in-all"]
+	path = java-in-all
+	url = https://github.com/xlxxdr/java-in-all.git
